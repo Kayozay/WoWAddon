@@ -1,5 +1,5 @@
 ## Interface: 70300
-## Title: J&N addon
+## Title: Hello World
 ## Author: Joshua and Nick
 ## Version: 0.001
 
