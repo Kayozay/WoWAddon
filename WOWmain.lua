@@ -1,5 +1,5 @@
 ## Interface: 70300
-## Title: (Nickand)
+## Title: J&N addon
 ## Author: Joshua and Nick
 ## Version: 0.001
 
