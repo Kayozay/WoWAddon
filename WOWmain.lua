@@ -1,6 +1,7 @@
-## Interface: (Your Interface number)
+## Interface: 70300
 ## Title: (Nickand)
-## Author: (Your name here)
+## Author: Joshua and Nick
 ## Version: (Version of your Addon)
 
 main.lua
+
